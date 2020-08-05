@@ -15,7 +15,6 @@
 <img align="left" alt="C++" width="32px" src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" />
 <img align="left" alt="C#" width="32px" src="https://img.icons8.com/color/2x/c-sharp-logo.png" />
 <img align="left" alt="Java" width="32px" src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png" />
-<br>
 <img align="left" alt="Photoshop" width="32px" src="https://img.icons8.com/color/2x/adobe-photoshop.png" />
 <img align="left" alt="Illustrator" width="32px" src="https://img.icons8.com/color/2x/adobe-illustrator.png" />
 <img align="left" alt="Unity 3D" width="32px" src="https://img.icons8.com/ios-filled/2x/unity.png" />
