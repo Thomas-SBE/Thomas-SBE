@@ -5,8 +5,8 @@
 <div align="center">
 <table>
   <tr>
-    <th colspan="5"><img src="https://i.imgur.com/fOxlCDP.png" height=18 title="Programming Languages"/></th>
-    <th colspan="5"><img src="https://i.imgur.com/IVQ6Oz3.png" height=18 title="Web & Database Management"/></th>
+    <th colspan="5">Programming Languages</th>
+    <th colspan="5">Web & Database Management</th>
   </tr>
   <tr>
     <td><img src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png" width=48 title="Java"/></td>
@@ -26,7 +26,7 @@
 <div align="center">
 <table>
   <tr>
-    <th colspan="7"><img src="https://i.imgur.com/mRYz4Gg.png" height=18 title="Working Environments"/></th>
+    <th colspan="7">Working Environments</th>
   </tr>
   <tr>
     <td><img src="https://img.icons8.com/color/344/nodejs.png" width=48 title="NodeJS" /></td>
@@ -46,9 +46,9 @@
 <div align="center">
 <table>
   <tr>
-    <th colspan="5"><img src="https://i.imgur.com/AJAUCzp.png" height=18 title="IDE ( Integrated Development Environments )"/></th>
-    <th colspan="3"><img src="https://i.imgur.com/vHSasjk.png" height=24 title="Operating Systems"/></th>
-    <th><img src="https://i.imgur.com/hpT13fR.png" height=24 title="Git Version Control"/></th>
+    <th colspan="5"><b>IDE</b></th>
+    <th colspan="3"><b>Operating Systems</b></th>
+    <th>Git</th>
   </tr>
   <tr>
     <td><img src="https://img.icons8.com/color/344/intellij-idea.png" width=48 title="IntelliJ" /></td>
@@ -62,4 +62,44 @@
     <td><img src="https://img.icons8.com/color/344/git.png" width=48 title="Git" /></td>
   </tr>
 </table>
+</div>
+
+<br />
+<img src="https://i.imgur.com/9A3N4ru.png" title="Projects" />
+
+<div align="center">
+<h3><a href="https://github.com/Thomas-SBE/EMIT">EMIT : Extended & More Interactive Terminal</a></h3>
+<p><sup>🖥️ EMIT or Extended & More Interactive Terminal, is a library to enhance user experience in console applications with a more graphical approach 🌱.</sup></p>
+<img src="https://img.shields.io/badge/-C%20/%20C++-2f2f2f?style=flat-square&logo=c&logoColor=white&logoWidth=20" title="C / C++" />
+<img src="https://img.shields.io/badge/-Makefiles-2f2f2f?style=flat-square&logo=&logoColor=white&logoWidth=0" title="Makefiles" />
+<img src="https://img.shields.io/badge/-Valgrind%20Memcheck-2f2f2f?style=flat-square&logo=&logoColor=white&logoWidth=0" title="Valgrind Memcheck" />
+<br />
+<hr/>
+<h3><a href="https://github.com/Thomas-SBE/ocamlj-plugin">OCamlJ : OCaml Extension for IntelliJ</a></h3>
+<p><sup>OcamlJ is an embeded Ocaml terminal / console in IntelliJ, it also allows file reading and executing with one click.</sup></p>
+<img src="https://img.shields.io/badge/-Java-5382a1?style=flat-square&logo=java&logoColor=white&logoWidth=20" title="Java" />
+<img src="https://img.shields.io/badge/-Java Swing-5382a1?style=flat-square&logo=java&logoColor=white&logoWidth=20" title="Java Swing" />
+<img src="https://img.shields.io/badge/-OCaml-ec6813?style=flat-square&logo=ocaml&logoColor=white&logoWidth=20" title="OCaml" />
+<img src="https://img.shields.io/badge/-IntelliJ%20Platform%20SDK-454545?style=flat-square&logo=intellijidea&logoColor=white&logoWidth=20" title="IntelliJ Platform SDK" />
+<br />
+<hr/>
+<h3><a href="https://github.com/Thomas-SBE/electron-ocaml">ECaml : OCaml IDE made with Electron</a></h3>
+<p><sup>Electron-Ocaml is a standalone IDE based on the electron.js NodeJS framework, with ace.js, xterm, and some more ...</sup></p>
+<img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black&logoWidth=20" title="JavaScript" />
+<img src="https://img.shields.io/badge/-Node%20JS-339933?style=flat-square&logo=node.js&logoColor=white&logoWidth=20" title="Node.JS" />
+<img src="https://img.shields.io/badge/-OCaml-ec6813?style=flat-square&logo=ocaml&logoColor=white&logoWidth=20" title="OCaml" />
+<img src="https://img.shields.io/badge/-ElectronJS-47848f?style=flat-square&logo=electron&logoColor=white&logoWidth=20" title="ElectronJS" />
+<img src="https://img.shields.io/badge/-XTermJS-3f3f3f?style=flat-square&logo=iterm2&logoColor=white&logoWidth=20" title="XTermJS" />
+<img src="https://img.shields.io/badge/-Ace%20Editor%20Library-3f3f3f?style=flat-square&logo=&logoColor=white&logoWidth=" title="Ace Editor" />
+<br />
+</div>
+
+___
+
+<img src="https://i.imgur.com/DkH5j5H.png" title="Contact me" />
+  
+<div align="center">
+  <a href="mailto:tsbe.contact@gmail.com"><img src="https://img.shields.io/badge/-tsbe.contact%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white&logoWidth=20" title="Professional contact" /></a>
+  <a href="https://www.linkedin.com/in/tsbe/"><img src="https://img.shields.io/badge/-https://www.linkedin.com/in/tsbe/-blue?style=flat-square&logo=linkedin&logoColor=white&logoWidth=20" title="LinkedIn Profile : TSBE" /></a>
+  <a href="https://discord.com/"><img src="https://img.shields.io/badge/-Thomas%20'Sahkunata'%20B.%235324-7289DA?style=flat-square&logo=discord&logoColor=white&logoWidth=20" title="Discord Account" /></a>
 </div>
